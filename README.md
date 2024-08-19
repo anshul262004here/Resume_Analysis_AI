@@ -38,8 +38,8 @@
 ## Screenshots
 
 ## User side
-<img src="https://github.com/anshul262004here/Resume_Analysis_AI/sc1.png">
+<img src="E:\code with anshul\Github projects\Smart_Resume_Analyser_App-master\sc1.png">
 
 ## Admin Side
-<img src="https://github.com/anshul262004here/Resume_Analysis_AI/sc2.png">
+<img src="E:\code with anshul\Github projects\Smart_Resume_Analyser_App-master\sc2.png">
 
