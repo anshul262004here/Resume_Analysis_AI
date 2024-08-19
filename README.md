@@ -38,8 +38,8 @@
 ## Screenshots
 
 ## User side
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc1.png">
+<img src="https://github.com/anshul262004here/Resume_Analysis_AI/sc1.png">
 
 ## Admin Side
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc2.png">
+<img src="https://github.com/anshul262004here/Resume_Analysis_AI/sc2.png">
 
